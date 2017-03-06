@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>community_centres</name>
+<visibility>1</visibility>
+<Style id="KMLStyler">
+<IconStyle>
+<color>ff00ffff</color>
+<colorMode>normal</colorMode>
+<scale>0.5</scale>
+<Icon>
+<href>images/C1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>0</scale>
+</LabelStyle>
+<LineStyle>
+<colorMode>normal</colorMode>
+</LineStyle>
+<PolyStyle>
+<colorMode>normal</colorMode>
+</PolyStyle>
+</Style>
+<Schema name="Community_Centres" id="kml_schema_ft_Community_Centres">
+<SimpleField type="xsd:string" name="NAME">
+<displayName>NAME</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="ADDRESS">
+<displayName>ADDRESS</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="URLLINK">
+<displayName>URLLINK</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Community_Centres">
+<name>Community_Centres</name>
+<Placemark id="kml_1">
+<name>Britannia</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Britannia
+ADDRESS:1661 Napier St
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/britannia/index.htm'&gt;http://vancouver.ca/parks/cc/britannia/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Britannia</SimpleData>
+<SimpleData name="ADDRESS">1661 Napier St</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/britannia/index.htm'&gt;http://vancouver.ca/parks/cc/britannia/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.0738,49.2756,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>Carnegie Centre</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Carnegie Centre
+ADDRESS:401 Main St
+URLLINK:&lt;a href='http://vancouver.ca/commsvcs/CARNEGIECENTRE/index.htm'&gt;http://vancouver.ca/commsvcs/CARNEGIECENTRE/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Carnegie Centre</SimpleData>
+<SimpleData name="ADDRESS">401 Main St</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/commsvcs/CARNEGIECENTRE/index.htm'&gt;http://vancouver.ca/commsvcs/CARNEGIECENTRE/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.1001,49.2811,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>Roundhouse</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Roundhouse
+ADDRESS:181 Roundhouse Mews
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/roundhouse/index.htm'&gt;http://vancouver.ca/parks/cc/roundhouse/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Roundhouse</SimpleData>
+<SimpleData name="ADDRESS">181 Roundhouse Mews</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/roundhouse/index.htm'&gt;http://vancouver.ca/parks/cc/roundhouse/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.1217,49.2733,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>Coal Harbour</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Coal Harbour
+ADDRESS:480 Broughton St
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/westend/index.htm'&gt;http://vancouver.ca/parks/cc/westend/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Coal Harbour</SimpleData>
+<SimpleData name="ADDRESS">480 Broughton St</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/westend/index.htm'&gt;http://vancouver.ca/parks/cc/westend/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.1259,49.2902,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>Marpole-Oakridge</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Marpole-Oakridge
+ADDRESS:990 W 59th Av
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/marpole/index.htm'&gt;http://vancouver.ca/parks/cc/marpole/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Marpole-Oakridge</SimpleData>
+<SimpleData name="ADDRESS">990 W 59th Av</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/marpole/index.htm'&gt;http://vancouver.ca/parks/cc/marpole/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.1275,49.2145,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>Mount Pleasant</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Mount Pleasant
+ADDRESS:1 Kingsway
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/mtpleasant/index.htm'&gt;http://vancouver.ca/parks/cc/mtpleasant/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Mount Pleasant</SimpleData>
+<SimpleData name="ADDRESS">1 Kingsway</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/mtpleasant/index.htm'&gt;http://vancouver.ca/parks/cc/mtpleasant/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.1002,49.2643,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>Renfrew Park</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Renfrew Park
+ADDRESS:2929 E 22nd Av
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/renfrew/index.htm'&gt;http://vancouver.ca/parks/cc/renfrew/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Renfrew Park</SimpleData>
+<SimpleData name="ADDRESS">2929 E 22nd Av</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/renfrew/index.htm'&gt;http://vancouver.ca/parks/cc/renfrew/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.043,49.2524,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>Hillcrest</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Hillcrest
+ADDRESS:4575 Clancy Loranger Way
+URLLINK:&lt;a href='http://vancouver.ca/parks-recreation-culture/hillcrest-centre.aspx'&gt;http://vancouver.ca/parks-recreation-culture/hillcrest-centre.aspx&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Hillcrest</SimpleData>
+<SimpleData name="ADDRESS">4575 Clancy Loranger Way</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks-recreation-culture/hillcrest-centre.aspx'&gt;http://vancouver.ca/parks-recreation-culture/hillcrest-centre.aspx&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.1079,49.2438,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>Strathcona</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Strathcona
+ADDRESS:601 Keefer St
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/strathcona/index.htm'&gt;http://vancouver.ca/parks/cc/strathcona/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Strathcona</SimpleData>
+<SimpleData name="ADDRESS">601 Keefer St</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/strathcona/index.htm'&gt;http://vancouver.ca/parks/cc/strathcona/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.0915,49.2798,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>Sunset</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Sunset
+ADDRESS:6810 Main St
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/sunset/index.htm'&gt;http://vancouver.ca/parks/cc/sunset/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Sunset</SimpleData>
+<SimpleData name="ADDRESS">6810 Main St</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/sunset/index.htm'&gt;http://vancouver.ca/parks/cc/sunset/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.1006,49.2229,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>Thunderbird</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Thunderbird
+ADDRESS:2311 Cassiar St
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/thunderbird/index.htm'&gt;http://vancouver.ca/parks/cc/thunderbird/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Thunderbird</SimpleData>
+<SimpleData name="ADDRESS">2311 Cassiar St</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/thunderbird/index.htm'&gt;http://vancouver.ca/parks/cc/thunderbird/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.0321,49.2636,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>Trout Lake</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Trout Lake
+ADDRESS:3360 Victoria Drive
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/troutlake/index.htm'&gt;http://vancouver.ca/parks/cc/troutlake/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Trout Lake</SimpleData>
+<SimpleData name="ADDRESS">3360 Victoria Drive</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/troutlake/index.htm'&gt;http://vancouver.ca/parks/cc/troutlake/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.0655,49.2553,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>West End</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:West End
+ADDRESS:870 Denman St
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/westend/index.htm'&gt;http://vancouver.ca/parks/cc/westend/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">West End</SimpleData>
+<SimpleData name="ADDRESS">870 Denman St</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/westend/index.htm'&gt;http://vancouver.ca/parks/cc/westend/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.1361,49.2899,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>West Point Grey</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:West Point Grey
+ADDRESS:4397 W 2nd Av
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/westptgrey/index.htm'&gt;http://vancouver.ca/parks/cc/westptgrey/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">West Point Grey</SimpleData>
+<SimpleData name="ADDRESS">4397 W 2nd Av</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/westptgrey/index.htm'&gt;http://vancouver.ca/parks/cc/westptgrey/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.2045,49.2718,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>False Creek</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:False Creek
+ADDRESS:1318 Cartwright St
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/falsecreek/index.htm'&gt;http://vancouver.ca/parks/cc/falsecreek/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">False Creek</SimpleData>
+<SimpleData name="ADDRESS">1318 Cartwright St</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/falsecreek/index.htm'&gt;http://vancouver.ca/parks/cc/falsecreek/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.134,49.2694,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>Champlain Heights</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Champlain Heights
+ADDRESS:3350 Maquinna Drive
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/champla/index.htm'&gt;http://vancouver.ca/parks/cc/champla/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Champlain Heights</SimpleData>
+<SimpleData name="ADDRESS">3350 Maquinna Drive</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/champla/index.htm'&gt;http://vancouver.ca/parks/cc/champla/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.0321,49.2144,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>Ray-Cam Co-Operative Center</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Ray-Cam Co-Operative Center
+ADDRESS:920 E Hastings St
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/raycam/index.htm'&gt;http://vancouver.ca/parks/cc/raycam/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Ray-Cam Co-Operative Center</SimpleData>
+<SimpleData name="ADDRESS">920 E Hastings St</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/raycam/index.htm'&gt;http://vancouver.ca/parks/cc/raycam/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.0841,49.2807,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>Douglas Park</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Douglas Park
+ADDRESS:801 W 22nd Av
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/douglas/index.htm'&gt;http://vancouver.ca/parks/cc/douglas/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Douglas Park</SimpleData>
+<SimpleData name="ADDRESS">801 W 22nd Av</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/douglas/index.htm'&gt;http://vancouver.ca/parks/cc/douglas/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.1213,49.2529,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_19">
+<name>Dunbar</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Dunbar
+ADDRESS:4747 Dunbar St
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/dunbar/index.htm'&gt;http://vancouver.ca/parks/cc/dunbar/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Dunbar</SimpleData>
+<SimpleData name="ADDRESS">4747 Dunbar St</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/dunbar/index.htm'&gt;http://vancouver.ca/parks/cc/dunbar/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.1883,49.2428,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_20">
+<name>Hastings</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Hastings
+ADDRESS:3096 E Hastings St
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/hastings/index.htm'&gt;http://vancouver.ca/parks/cc/hastings/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Hastings</SimpleData>
+<SimpleData name="ADDRESS">3096 E Hastings St</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/hastings/index.htm'&gt;http://vancouver.ca/parks/cc/hastings/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.0393,49.2809,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_21">
+<name>Kensington</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Kensington
+ADDRESS:5175 Dumfries St
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/kensington/index.htm'&gt;http://vancouver.ca/parks/cc/kensington/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Kensington</SimpleData>
+<SimpleData name="ADDRESS">5175 Dumfries St</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/kensington/index.htm'&gt;http://vancouver.ca/parks/cc/kensington/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.0755,49.2385,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_22">
+<name>Kerrisdale</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Kerrisdale
+ADDRESS:5851 West Boulevard
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/kerrisdale/index.htm'&gt;http://vancouver.ca/parks/cc/kerrisdale/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Kerrisdale</SimpleData>
+<SimpleData name="ADDRESS">5851 West Boulevard</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/kerrisdale/index.htm'&gt;http://vancouver.ca/parks/cc/kerrisdale/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.1571,49.2332,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_23">
+<name>Killarney</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Killarney
+ADDRESS:6260 Killarney St
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/killarney/index.htm'&gt;http://vancouver.ca/parks/cc/killarney/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Killarney</SimpleData>
+<SimpleData name="ADDRESS">6260 Killarney St</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/killarney/index.htm'&gt;http://vancouver.ca/parks/cc/killarney/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.0444,49.2274,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_24">
+<name>Kitsilano War Memorial</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Kitsilano War Memorial
+ADDRESS:2690 Larch St
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/kitsilano/index.htm'&gt;http://vancouver.ca/parks/cc/kitsilano/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Kitsilano War Memorial</SimpleData>
+<SimpleData name="ADDRESS">2690 Larch St</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/kitsilano/index.htm'&gt;http://vancouver.ca/parks/cc/kitsilano/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.1601,49.2621,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_25">
+<name>Creekside</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Creekside
+ADDRESS:1 Athletes Way
+URLLINK:&lt;a href='http://vancouver.ca/parks/cc/creekside/index.htm'&gt;http://vancouver.ca/parks/cc/creekside/index.htm&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Creekside</SimpleData>
+<SimpleData name="ADDRESS">1 Athletes Way</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks/cc/creekside/index.htm'&gt;http://vancouver.ca/parks/cc/creekside/index.htm&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.1056,49.2718,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_26">
+<name>Evelyne Saller Centre</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Evelyne Saller Centre
+ADDRESS:320 Alexander St
+URLLINK:&lt;a href='http://vancouver.ca/parks-recreation-culture/evelyne-saller-centre.aspx'&gt;http://vancouver.ca/parks-recreation-culture/evelyne-saller-centre.aspx&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Evelyne Saller Centre</SimpleData>
+<SimpleData name="ADDRESS">320 Alexander St</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks-recreation-culture/evelyne-saller-centre.aspx'&gt;http://vancouver.ca/parks-recreation-culture/evelyne-saller-centre.aspx&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.0971,49.2839,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_27">
+<name>Gathering Place Community Centre</name>
+<snippet> </snippet>
+<description>Attributes:
+NAME:Gathering Place Community Centre
+ADDRESS:609 Helmcken St
+URLLINK:&lt;a href='http://vancouver.ca/parks-recreation-culture/gathering-place-community-centre.aspx'&gt;http://vancouver.ca/parks-recreation-culture/gathering-place-community-centre.aspx&lt;/a&gt;
+</description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Community_Centres">
+<SimpleData name="NAME">Gathering Place Community Centre</SimpleData>
+<SimpleData name="ADDRESS">609 Helmcken St</SimpleData>
+<SimpleData name="URLLINK">&lt;a href='http://vancouver.ca/parks-recreation-culture/gathering-place-community-centre.aspx'&gt;http://vancouver.ca/parks-recreation-culture/gathering-place-community-centre.aspx&lt;/a&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-123.1235,49.278,0 </coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>
