@@ -4,61 +4,46 @@ This is a sample submission repository for Open Data Hackathon Projects. You can
 ##Team Name
 *Team Vancouver Access*
 
+##Team Members
+- [Julie Sturgeon, Data Scientist/Mathematician](https://www.linkedin.com/in/julie-sturgeon-48274355/)
+- [Kate Kourbatova, Full Stack Web Developer](https://www.linkedin.com/in/katekourbatova/)
+- [Godot Bian, Business/Computer Science](https://www.linkedin.com/in/godotyuanbian/)
+- [Aidin Mirsaeidi, Data Analyst](https://www.linkedin.com/in/aidinmirsaeidi/)
+- [Manil Chowdhury, Web Developer](https://www.linkedin.com/in/manilchowdhury/)
+- [Kevin Weiss, Firmware/Hardware/Software Engineer](https://www.linkedin.com/in/kevin-weiss-a9b2bb44/)
+- [Farnaz Rashidi, Web Developer/Software Engineer](https://www.linkedin.com/in/farnaz-rashidi/)
+- [Peter Lin, Data Scientist/Pharmacist](https://www.linkedin.com/in/peterlinmds/)
 
 
-##Vancouver Open Data Day Challenge
-*What VODDay Challenge is your project focusing on? (See the [2017 VODday Challenges](https://www.opendatabc.ca/pages/2017-vodday-vancouver-open-data-day#challenges).)*
+##Vancouver Open Data Day Challenge Summary
+The team of 8 designed and prototyped a web-based application aimed to improve accessibility for various groups. (ie. transit, wheelchair, deaf, blind, and non-English users plus those who are sensitive to noise and/or scent) using open data sets from the government and businesses.
+
+Won two out of six challenges
+- Wildcard Challenge (Awesome prototype using open data across any category that inspires the judges)
+- ProtoHack Challenge (Best idea with a viable business concept)
 
 
-
-##Prototype Problem Statement
-*A clear statement of the problem your team has identified to address through the project. Use this problem statement as the basis to ideate around. Research and validate the problem to test if it is an issue, or if others are already addressing in. You may need to pivit your problem statement, and ideas around approach depending on what you discover about the issue and resources available.*
-
-*This will help focus your approach to addressing the challenge.*
-
-
-
-##Protoype Summary
-*Summarize your approach to addressing the challenge. Highlight the value of your approach to addressing the challenge, who your inteded users are, and the long term vision.*
-
-
-
-##Open Data Sets
-###What Open Data Sets Will You Use?
-*What open data sets, standards, OpenAPI's etc does your prototype draw on? How does it use them?*
-
- - List them here...
-
-
-
-###What Open Data Sets Do You Still Need?
-*Identify open data sets that are not yet available, but would benifit or are needed for the project. Explain how you would use the data to improve your prototype and address the challenge.*
-
-*This is your chance to form a mini business case for the data you need to share with open data providers!*
 
 
 
 ##Prototype
 ###Live Prototype
+
+
 [Access 360 Prototype by Team Vancouver Access](https://api.mapbox.com/styles/v1/katekourbatova/cizw1z0q800182sobp8fr8clv.html?title=true&access_token=pk.eyJ1Ijoia2F0ZWtvdXJiYXRvdmEiLCJhIjoiY2l6dzFtN2IwMDE2bzJ2cWxtc2w1eTM2diJ9.6BFVNNLMaOv17XaM99E7Zw#13.12/49.2858/-123.1276)
 
 
 ###Presentation
+
+
 [Access 360 slides](https://docs.google.com/presentation/d/15Z48N4_i0vHwOA2_2WuzHrn89sRgN-NmZi1xxk3iUcg/edit#slide=id.p4)
 
 
 
 ##Next Steps
-*What do you need to do next to turn this prototype into a working solution?*
+*Continue to improve the app to include more data points using public and non public data sets*
 
 
-
-##Progress
-*Keep updating as you continue to turn your prototype into a working solution.*
- - Summarize what progress you've made since VODday
- - Tweet [@OpenDataBC](https://twitter.com/opendatabc) with your updates
- - Show off your progress at [OpenDataBC events](https://www.meetup.com/OpenDataBC-Vancouver)
- - Share your prototype and progress with the organizations related to the challenge your adressing and the providers of the open data you are using.
 
 
 ##Setup
