@@ -2,7 +2,7 @@
 This is a sample submission repository for Open Data Hackathon Projects. You can [fork this repo](https://help.github.com/articles/fork-a-repo/) and use this as a starting point. You do not have send a pull request for this repo. This is just a sample of what your repo can look like when you submit it to us as part of the final process for the hackathon.
 
 ##Team Name
-*Choose a fun team name!*
+*Team Vancouver Access*
 
 
 
@@ -40,11 +40,11 @@ This is a sample submission repository for Open Data Hackathon Projects. You can
 
 ##Prototype
 ###Live Prototype
-*Link to your prototype.*
+[Access 360 Prototype by Team Vancouver Access](https://api.mapbox.com/styles/v1/katekourbatova/cizw1z0q800182sobp8fr8clv.html?title=true&access_token=pk.eyJ1Ijoia2F0ZWtvdXJiYXRvdmEiLCJhIjoiY2l6dzFtN2IwMDE2bzJ2cWxtc2w1eTM2diJ9.6BFVNNLMaOv17XaM99E7Zw#13.12/49.2858/-123.1276)
 
 
 ###Presentation
-*Link to your presentation or any related visuals you want to share.*
+[Access 360 slides](https://docs.google.com/presentation/d/15Z48N4_i0vHwOA2_2WuzHrn89sRgN-NmZi1xxk3iUcg/edit#slide=id.p4)
 
 
 
